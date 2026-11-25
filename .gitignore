@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+task1_pipelines/samples/
+task4_tokenizers_models/saved_model/
+*.avi
+*.mp4
+.DS_Store
